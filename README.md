@@ -1,2 +1,2 @@
 # nasjonal-arkitektur
-Skisser og arbeidsdokumenter rundt en nasjonal IKT-arkitektur på overordnet nivå
+Archimatemodeller og arbeidsdokumenter for innspill til en nasjonal IKT-arkitektur på overordnet nivå
